@@ -128,7 +128,8 @@ Loaders accept dataset files at standard paths under `data/`. See `opencoder/dat
 
 ## Citation
 
-If you use OpenCoder, please cite the accompanying paper.
+If you use this code or refer to ideas from our paper, please cite:
+Preprint coming soon! 
 
 ## Related Work
 
