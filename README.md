@@ -11,7 +11,7 @@ OpenCoder is an uncertainty-aware retrieval-augmented code generation framework 
 - 
  ## 📊 OpenCoder Framework
 
-![OpenCoder Framework for Uncertainty-Aware Retrieval-Augmented Code Generation](pics/OpenCoder.png)
+![OpenCoder Framework for Uncertainty-Aware Retrieval-Augmented Code Generation](pics/opencoder_framework.png)
 
 **Figure:** OpenCoder Framework for Uncertainty-Aware Retrieval-Augmented Code Generation.
 
